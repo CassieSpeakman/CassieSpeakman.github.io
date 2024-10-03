@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: ""
 ---
 
-About this site
+```{r, out.width='15%', fig.align='center', echo=FALSE}
+knitr::include_graphics('images/speakmancassie.png')
+```
+
+I am a postdoctoral researcher currently working on understanding and predicting the population-level responses of small carnivores to human activity.
+
+My research uses quantitative approaches to study the behavioural, reproductive and population ecology of wildlife populations to understand the implications of human-mediated environmental change for species management and conservation.
+
+During my PhD at Deakin University, I investigated how environmental perturbations expected under future climate change may influence the Australian fur seal population. The project addressed questions surrounding animal personality, foraging behaviour, and factors influencing foraging success. This culminated in the development of an individual-based model to predict the individual- and population-level consequences of environmental change on the species.

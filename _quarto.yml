@@ -3,18 +3,29 @@ project:
   output-dir: "docs"
 
 website:
-  title: "Cassie Speakman"
+  title: "Cassie Speakman" 
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: secondary
+    search: false
+    right:
+      - href: about.qmd
+        text: About
+#      - href: research.qmd
+#        text: Research themes
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks & workshops
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme: yeti
     css: styles.css
-    toc: true
+    toc: false
+    smooth-scroll: true
+    fontsize: 1em
 
 editor: visual
 

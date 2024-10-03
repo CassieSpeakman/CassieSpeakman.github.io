@@ -1,16 +1,107 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CassieSpeakman.github.oi",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & workshops",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Dec 2022: “Dynamic models in behavioural ecology”, Ecological Society of Australia & Society for Conservation Biology Oceania joint conference, Wollongong, Australia"
+  },
+  {
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "Talks & workshops",
+    "section": "",
+    "text": "Dec 2022: “Dynamic models in behavioural ecology”, Ecological Society of Australia & Society for Conservation Biology Oceania joint conference, Wollongong, Australia"
+  },
+  {
+    "objectID": "talks.html#invited-talks",
+    "href": "talks.html#invited-talks",
+    "title": "Talks & workshops",
+    "section": "Invited Talks",
+    "text": "Invited Talks\n\nNov 2022: “Dynamic models in behavioural ecology”, Quantitative and Applied Ecology Group, University of Melbourne\nOct 2022: “Furry friends in our watery backyard”, Centre for Integrative Ecology’s Wild Webinar series, Deakin University\nSep 2021: “State-dependent life history theory models for conservation”, Centre for Integrative Ecology’s Lunchtime Seminar series, Deakin University\nJul 2021: “Panel: Conservation and Resilience - students in the field”, Island Whale Festival, Phillip Island Nature Parks"
+  },
+  {
+    "objectID": "talks.html#guest-lectures",
+    "href": "talks.html#guest-lectures",
+    "title": "Talks & workshops",
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\n\n2023: Animal Behaviour (SLE307), Deakin University, “Dispersal, migration and navigation”\n2023: Animal Behaviour (SLE307), Deakin University, “Play behaviour”\n2023: Animal Behaviour (SLE307), Deakin University, “Animal communication”\n2021: Marine Wildlife (SLE350), Deakin University, “Modelling population consequences of natural and anthropogenic disturbance”\n2021: Animal Behaviour (BIO3052), Monash University, “Pinniped behaviour”"
+  },
+  {
+    "objectID": "talks.html#contributed-talks",
+    "href": "talks.html#contributed-talks",
+    "title": "Talks & workshops",
+    "section": "Contributed Talks",
+    "text": "Contributed Talks\n\nSpeakman, CN, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Gallagher, CA, Gimenez, O, Giraudoux, P, Fryxell, JM, Marneweck, C, McHuron, EA, Rastello, K, Ruette, S, Salguero-Gomez, R, & Smallegange, I (2024) Understanding and predicting population consequences of anthropogenic disturbances: Current approaches and novel opportunities. Ecological Society of Australia Conference, Melbourne, Australia\nSpeakman, CN, McHuron, EA, & Arnould, JPY (2024) Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator. Société Française d’Écologie et Évolution (SFE²) International Congress in Ecology & Evolution, Lyon, France\nSpeakman, CN, Ruette, S, & Gimenez, O (2024) Understanding the population consequences of human disturbance on small carnivores. Journée Scientifique des Postdoctorants du LabEx CeMEB, Montpellier, France\nSpeakman, CN, McHuron, EA, & Arnould, JPY (2023) Using state‑dependent life‑history theory models to explore individual- and population‑level responses to environmental change in a marine predator. International Society for Ecological Modelling Conference, Scarborough, Canada\nSpeakman, CN, McHuron, EA, & Arnould, JPY (2022) Using state-dependent life-history theory models to explore individual and population level responses to environmental change in a marine predator. Working Group on Integrative, Physical-biological and Ecosystem Modelling (WGIPEM) Meeting, Texel, The Netherlands\nSpeakman, CN, McHuron, EA, & Arnould, JPY (2022) Fear vs. Food: Exploring behavioural and population-level responses to environmental change and predation pressure in Australian fur seals. Victorian Biodiversity Conference, Melbourne, Australia (virtual); ESA-SCBO Joint Conference, Wollongong, Australia\nSpeakman, CN, & Arnould, JPY (2021) Developing a state-dependent life-history theory model for Australian fur seals. Centre for Integrative Ecology Annual Conference, Melbourne, Australia (virtual)\nSpeakman, CN, Lloyd, ST, Camprasse, EMC, Hoskins, AJ, Hindell, MA, Costa, DP, & Arnould, JPY (2021) Consistency in foraging behaviour improves foraging success and efficiency in a marine top predator. Victorian Biodiversity Conference (virtual) & ANZSCSMM Student Chapter Meeting (virtual)\nSpeakman, CN, Hoskins, AJ, Hindell, MA, Costa, DP, & Arnould, JPY (2020) Temporal and spatial influences on foraging behaviour and hunting success in female AUFS. Ecological Society of Australia Conference, Wollongong, Australia (virtual)\nSpeakman, CN (2020) Environmental threats to a marine top-order predator, the Australian fur seal. Centre for Integrative Ecology Annual Conference, Melbourne, Australia\nSpeakman, CN, Robb, K, & Johnstone, CP (2019) No escape from wave impacts for Australian fur seals. Victorian Biodiversity Conference, Melbourne, Australia\nSpeakman, CN, Robb, K, & Johnstone, CP (2018) Influence of anthropogenic and natural disturbance on Australian fur seal behaviour at a popular ecotourism site in southern Port Phillip Bay, Victoria, Australia. ANZSCSMM Student Chapter Meeting, Brisbane, Australia"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "EA McHuron, C Gallagher, A Trites, CN Speakman, E Pirotta, K Keen, M Chadzinska, S Villegas, S Adamczek, C McMahon, DP Costa, D Rosen, N Thometz, C Booth (in review) Good practices and considerations for the development of marine mammal bioenergetic models. Conservation Physiology\nLA Slaughter, CN Speakman, P Lacetera, & JPY Arnould (in review) Estimating the cost of predator avoidance in Australian fur seals. PeerJ"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nSpeakman, CN, McHuron, & Arnould, JPY (2024). Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator. Frontiers in Marine Science. DOI: 10.3389/fmars.2024.1367655\nSkogen, MD, Aarflot, JM, García‑García, LM, Ji, R, Ruiz‑Villarreal, M, Almroth‑Rosell, E, Belgrano, Benkort, AD, Daewel, U, Edman, M, Friedland, R, Gao, S, Hill‑Cruz, M, Hjøllo, SS, Huret, M, Kellner, JB, van Leeuwen, S, de Gamiz Zearra, AL, Maar, M, Mousing, EA, Peck, MA, Rollan, AP, Sailley, SF, Saraiva, S, Speakman, CN, Troost, T, Yumruktepe, VÇ (2024) Bridging the gap: Integrating models and observations for better ecosystem understanding. Marine Ecology Progress Series. Link *Co‑authors listed in alphabetical order"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nJJ Geeson, AJ Hobday, CN Speakman, JPY Arnould (2023) Long-term decline in body condition of female Australian fur seals: potential causes and implications. Frontiers in Marine Science."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nEA McHuron, S Adamczak, JPY Arnould, E Ashe, C Booth, WD Bowen, F Christiansen, M Chudzinska, DP Costa, A Fahlman, NA Farmer, SME Fortune, C Gallagher, K Keen, PT Madsen, C McMahon, J Nabe-Nielsen, DP Noren, SR Noren, E Pirotta, D Rosen, CN Speakman, S Villegas-Amtmann, R Williams (2022) Key questions in marine mammal bioenergetics. Conservation Physiology, 10, coac055. Link\nJJ Geeson, AJ Hobday, CN Speakman, JPY Arnould (2022) Environmental influences on breeding biology and pup production in Australian fur seals. Royal Society Open Science, 9, 211399. Link"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nCN Speakman, AJ Hoskins, MA Hindell, DP Costa, JR Hartog, AJ Hobday, JPY Arnould (2021) Influence of environmental variation on spatial distribution and habitat-use in a benthic foraging marine predator. Royal Society Open Science, 8, 211052. Link\nCN Speakman, ST Lloyd, EMC Camprasse, AJ Hoskins, MA Hindell, DP Costa, JPY Arnould (2021) Intertrip consistency in hunting behavior improves foraging success and efficiency in a marine top predator. Ecology & Evolution, 11 (9), 4428-4441. Link\nN Meyers, CN Speakman, NAS-Y Dorville, MA Hindell, JM Semmens, J Monk, AMM Baylis, D Ierodiaconou, AJ Hoskins, GJ Marshall, K Abernathy, JPY Arnould (2021) The cost of a meal: factors influencing prey profitability in Australian fur seals. PeerJ, 9, e12608. Link\nMA Rodriguez-Malagon, CN Speakman, GJ Sutton, LP Angel, JPY Arnould (2021) Temporal and spatial isotopic variability of marine prey species in south-eastern Australia: Potential implications for predator diet studies. PLoS ONE, 16 (11), e0259961. Link"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nCN Speakman, AJ Hoskins, MA Hindell, DP Costa, JR Hartog, AJ Hobday, JPY Arnould (2020) Environmental influences on foraging effort, success and efficiency in female Australian fur seals. Scientific Reports, 10, 17710. Link\nCN Speakman, C Johnstone, K Robb (2020) Increased alertness behavior in Australian fur seals (Arctocephalus pusillus doriferus) at a high vessel traffic haul-out site. Marine Mammal Science, 36, 486-499. Link\nMA Rodriguez-Malagon, LP Angel, CN Speakman, JPY Arnould (2020) Inter- and intra-individual variation in the diet of Australasian gannets Morus serrator. Marine Ecology Progress Series, 636, 207-220. Link"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Cassie Speakman",
+    "section": "",
+    "text": "Please feel free to get in touch!\n\nEmail\ncassie.speakman[[at]]outlook.com\n\n\nCurrent Position\nPostdoctoral Researcher\nDISCAR Synthesis Group\nFoundation for Research on Biodiversity:\nCentre for the Synthesis and Analysis of Biodiversity (FRB-CESAB)\nMontpellier, France"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Cassie Speakman",
     "section": "",
-    "text": "About this site"
+    "text": "I am a postdoctoral researcher currently working on understanding and predicting the population-level responses of small carnivores to human activity.\nMy research uses quantitative approaches to study the behavioural, reproductive and population ecology of wildlife populations to understand the implications of human-mediated environmental change for species management and conservation.\nDuring my PhD at Deakin University, I investigated how environmental perturbations expected under future climate change may influence the Australian fur seal population. The project addressed questions surrounding animal personality, foraging behaviour, and factors influencing foraging success. This culminated in the development of an individual-based model to predict the individual- and population-level consequences of environmental change on the species."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QuatroWebsite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research themes",
+    "section": "",
+    "text": "(page in progress)\nI have a broad range of research interests that each center around understanding and predicting how wildlife populations respond to human activity. These themes include foraging and spatial ecology, reproductive strategies, bioenergetics, and population dynamics."
   }
 ]
