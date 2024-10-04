@@ -25,7 +25,7 @@ format:
     css: styles.css
     toc: false
     smooth-scroll: true
-    fontsize: 1em
+#    fontsize: 1em
 
 editor: visual
 
